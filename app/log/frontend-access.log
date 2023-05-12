@@ -1,0 +1,7 @@
+172.21.0.1 - - [12/May/2023:06:17:15 +0000] "GET / HTTP/1.1" 200 4620 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+172.21.0.1 - - [12/May/2023:06:17:15 +0000] "GET /assets/66742c5e/dist/css/bootstrap.css HTTP/1.1" 200 237950 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+172.21.0.1 - - [12/May/2023:06:17:15 +0000] "GET /css/site.css HTTP/1.1" 200 1858 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+172.21.0.1 - - [12/May/2023:06:17:15 +0000] "GET /assets/6e8cb138/yii.js HTTP/1.1" 200 20953 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+172.21.0.1 - - [12/May/2023:06:17:15 +0000] "GET /assets/857db292/jquery.js HTTP/1.1" 200 292458 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+172.21.0.1 - - [12/May/2023:06:17:15 +0000] "GET /assets/66742c5e/dist/js/bootstrap.bundle.js HTTP/1.1" 200 207989 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+172.21.0.1 - - [12/May/2023:06:17:15 +0000] "GET /favicon.ico HTTP/1.1" 200 318 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
